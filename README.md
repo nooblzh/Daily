@@ -22,3 +22,10 @@ Note something
 ## Opencv
 
 之前一直没有搞懂cv2.imwrite中关于路径的选择，经过我的不断试验，终于找出了原因，你在路径里设置的路径必须要有你要储存的那个文件夹，cv2不会给你创建文件夹。
+
+
+### FLANN
+
+flann算法是最准确的特征匹配算法，这是一个简单的demo  
+下图是flann算法运行的截图  
+![alt 运行结果](result.png)
