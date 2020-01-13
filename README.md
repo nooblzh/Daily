@@ -29,3 +29,9 @@ Note something
 flann算法是最准确的特征匹配算法，这是一个简单的demo  
 下图是flann算法运行的截图  
 ![alt 运行结果](result.png)
+
+### KALMAN
+
+kalman滤波算法可以用来计算预测值，这个例子使用kalman滤波来预测鼠标的轨迹  
+下图是kalman.py的运行结果  
+![alt 运行结果](kalman.png)
